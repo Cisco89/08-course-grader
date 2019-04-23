@@ -1,4 +1,4 @@
-def course_grader(param):
+def course_grader(scores):
     
     pass_fail = "fail"
 
